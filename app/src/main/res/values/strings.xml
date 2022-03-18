@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaloITTest</string>
+    <string name="digite_texto">Ingrese un número entre 14 y 16 digitos</string>
+    <string name="contar">Contar</string>
+</resources>
